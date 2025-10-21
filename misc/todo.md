@@ -3,13 +3,13 @@ This list will be expanded if necessary.
 
 ## XLSX creation
 # Basic data
-- [ ] Kod urzędu
-- [ ] Okres
-- [ ] Osoba niefizyczna
-- [ ] NIP
-- [ ] Pełna nazwa
-- [ ] Adres e-mail
-- [ ] Nr tel
+- [x] Kod urzędu
+- [x] Okres
+- [x] Osoba niefizyczna
+- [x] NIP
+- [x] Pełna nazwa
+- [x] Adres e-mail
+- [x] Nr tel
 
 # Sales
 - [ ] Country code
