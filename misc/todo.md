@@ -37,9 +37,11 @@ This list will be expanded if necessary.
 - [ ] Check file correctness.
 
 ## Additional steps
-- [ ] Check if it's possible to create the init file without using the gov website.
-- [ ] Check if it's somehow possible to automate the process of signing the document by podpis kwalifikowany.
 - [ ] English ver.
+
+## Future rewrite
+- Use *lxml* for xmls, validate them using *xmlschema*
+- Introduce signing
 
 ---
 ## Sidenote
