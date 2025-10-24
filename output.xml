@@ -24,15 +24,17 @@
       <WariantFormularzaDekl>22</WariantFormularzaDekl>
     </Naglowek>
     <PozycjeSzczegolowe>
-      <P_37>151800.0</P_37>
-      <P_38>151800.0</P_38>
-      <P_39>1208</P_39>
-      <P_42>5250</P_42>
-      <P_43>1208</P_43>
-      <P_48>1208</P_48>
-      <P_51>0</P_51>
-      <P_53>1208</P_53>
-      <P_62>1208</P_62>
+      <P_19>660000</P_19>
+      <P_20>151800</P_20>
+      <P_37>660000</P_37>
+      <P_38>151800</P_38>
+      <P_39>0</P_39>
+      <P_42>266</P_42>
+      <P_43>69</P_43>
+      <P_48>69</P_48>
+      <P_51>151731</P_51>
+      <P_53>0</P_53>
+      <P_62>0</P_62>
       <P_68>0</P_68>
       <P_69>0</P_69>
     </PozycjeSzczegolowe>
@@ -61,7 +63,31 @@
     </SprzedazWiersz>
     <SprzedazCtrl>
       <LiczbaWierszySprzedazy>2</LiczbaWierszySprzedazy>
-      <PodatekNalezny>151800.0</PodatekNalezny>
+      <PodatekNalezny>151800</PodatekNalezny>
     </SprzedazCtrl>
+  <ZakupWiersz>
+      <LpZakupu>1</LpZakupu>
+      <KodKrajuNadaniaTIN>PL</KodKrajuNadaniaTIN>
+      <NrDostawcy>6762646904</NrDostawcy>
+      <NazwaDostawcy>STANET S.C.</NazwaDostawcy>
+      <DowodZakupu>95/3/2025</DowodZakupu>
+      <DataZakupu>2025-03-05</DataZakupu>
+      <K_42>111.75</K_42>
+      <K_43>33.34</K_43>
+    </ZakupWiersz>
+    <ZakupWiersz>
+      <LpZakupu>2</LpZakupu>
+      <KodKrajuNadaniaTIN>PL</KodKrajuNadaniaTIN>
+      <NrDostawcy>5260250995</NrDostawcy>
+      <NazwaDostawcy>ORANGE POLSKA S.A.</NazwaDostawcy>
+      <DowodZakupu>25030264931603</DowodZakupu>
+      <DataZakupu>2025-03-06</DataZakupu>
+      <K_42>154.5</K_42>
+      <K_43>35.54</K_43>
+    </ZakupWiersz>
+    <ZakupCtrl>
+      <LiczbaWierszyZakupow>2</LiczbaWierszyZakupow>
+      <PodatekNaliczony>69</PodatekNaliczony>
+    </ZakupCtrl>
   </Ewidencja>
 </JPK>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <JPK xmlns:etd="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2021/06/08/eD/DefinicjeTypy/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://crd.gov.pl/wzor/2021/12/27/11148/">
   <Naglowek>
     <KodFormularza kodSystemowy="JPK_V7M (2)" wersjaSchemy="1-0E">JPK_VAT</KodFormularza>
@@ -6,16 +6,16 @@
     <DataWytworzeniaJPK>2025-04-25T13:09:44.2080909+02:00</DataWytworzeniaJPK>
     <NazwaSystemu>Formularz uproszczony</NazwaSystemu>
     <CelZlozenia poz="P_7">2</CelZlozenia>
-    <KodUrzedu>1210</KodUrzedu>
-    <Rok>2025</Rok>
-    <Miesiac>3</Miesiac>
+    <KodUrzedu>9999</KodUrzedu>
+    <Rok>2077</Rok>
+    <Miesiac>5</Miesiac>
   </Naglowek>
   <Podmiot1 rola="Podatnik">
     <OsobaNiefizyczna>
-      <NIP>6793194113</NIP>
-      <PelnaNazwa>GREY HOUSE SP. Z O.O.</PelnaNazwa>
-      <Email>POCZTA@ARTURSOCHA.COM</Email>
-      <Telefon>608415900</Telefon>
+      <NIP>6666666666</NIP>
+      <PelnaNazwa>Nucysfera</PelnaNazwa>
+      <Email>brunon.socha@gmail.com</Email>
+      <Telefon>668-830-062</Telefon>
     </OsobaNiefizyczna>
   </Podmiot1>
   <Deklaracja>
@@ -28,7 +28,7 @@
       <P_20>75900</P_20>
       <P_37>330000</P_37>
       <P_38>75900</P_38>
-      <P_39>75676</P_39>
+      <P_39>0</P_39>
       <P_42>896</P_42>
       <P_43>214</P_43>
       <P_48>75890</P_48>
